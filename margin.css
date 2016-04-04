@@ -1,0 +1,13 @@
+.cuadro{
+	width: 250px;
+	height: 310px;
+	border: 2px solid red;
+}
+h3{
+	padding-left: 20px;  
+}
+p{
+	padding-left: 20px;
+	font-size: 18px
+	
+}
